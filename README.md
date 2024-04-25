@@ -1,0 +1,2 @@
+# algorithmic-waffle
+All algorithms
